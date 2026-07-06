@@ -606,4 +606,7 @@ ul {
         width: 120px;
         height: auto;
     }
+    body{
+    overflow-x:hidden;
+    }
 }
